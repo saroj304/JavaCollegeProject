@@ -402,7 +402,7 @@ public class EditForm extends JFrame {
 	private JLabel getLabel_1() {
 		if (label == null) {
 			label = new JLabel("");
-			label.setIcon(new ImageIcon("/home/seetal/Downloads/pexels-photo-414612.jpeg"));
+			label.setIcon(new ImageIcon("/home/saroj/Downloads/pexels-photo-414612.jpeg"));
 			label.setBounds(0, 0, 738, 686);
 		}
 		return label;

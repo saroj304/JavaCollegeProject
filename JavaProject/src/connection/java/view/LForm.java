@@ -163,7 +163,7 @@ public class LForm extends JFrame {
 	private JLabel getLabel() {
 		if (label == null) {
 			label = new JLabel("");
-			label.setIcon(new ImageIcon("/home/seetal/Downloads/gettyimages-104637612-2048x2048.jpg"));
+			label.setIcon(new ImageIcon("/home/saroj/Downloads/gettyimages-104637612-2048x2048.jpg"));
 			label.setBounds(12, 0, 431, 258);
 		}
 		return label;
